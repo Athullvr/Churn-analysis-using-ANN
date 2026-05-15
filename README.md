@@ -85,9 +85,3 @@ This will start a local web server, and you can view the dashboard in your brows
 
 ## 📊 Dataset
 The models are trained on the **Bank Customer Churn dataset** (`Churn_Modelling.csv`), which contains 10,000 rows of customer data including their demographics, bank product usage, and churn status.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
